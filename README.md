@@ -1,4 +1,9 @@
 # belanja
+# list item
+![hasil](images/1.jpg)
+# detail item
+![hasil](images/2.jpg)
+
 
 A new Flutter project.
 
